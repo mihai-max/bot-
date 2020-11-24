@@ -1,0 +1,19 @@
+{
+  "tips-enabled?":true,
+  "blockedfiles":[
+    "config.json",
+    "watch.json",
+    "package.json",
+    ".env"
+    ],
+  "allowed-file-exts":"js json",
+  "log-tips?":false,
+  "logging-file":null,
+  "last-tip-#":3,
+  "allow-important-tips":true,
+  "logcmdfile":null,
+  "console-client":"online",
+  "prefix":"/",
+  "console-max-lines":150,
+  "modules":"glitchcom discord"
+}
